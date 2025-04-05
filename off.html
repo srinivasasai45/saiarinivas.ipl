@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<meta content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1" name="viewport">
+		<meta property="og:title" content="Server down">
+    <meta property="og:description" content="Currently Website not Available.">
+    <meta property="og:image" content="https://i.postimg.cc/RZwnp6WV/image.png">
+    <meta property="og:url" content="t.me/DenverIsAlivee">
+    <meta property="og:type" content="website">
+    <title>Temporary Unavailable</title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://i.postimg.cc/RZwnp6WV/image.png">
+  </head>
+<body>
+  <style>
+        body {
+            background-color: black;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            color: white;
+            text-align: center;
+            font-size: 22px; 
+        }
+        
+.clock {
+  font-size: 2.7em;
+  font-family: "Share Tech Mono", monospace;
+  background-color: #333;
+  color: #fff;
+  font-weight: bold; 
+  text-align: center;
+  padding: 30px;
+  border-radius: 35px;
+  color: #daf6ff;
+  text-shadow: 0 0 30px #0aafe6, 0 0 20px rgba(10, 175, 230, 0);
+}
+
+#dateTime {
+  font-size: 0.4em; /* Adjust the size as needed */
+  margin-top: 5px; /* Add margin to separate time and date */
+font-weight: bold; /* Make the text bold */
+}
+
+    </style>
+    <body>
+    	<div class="clock">
+    <div id="time"></div>
+    <div id="dateTime"></div>
+  </div>
+    	<h1>Website Off</h1>
+    <img src="https://i.giphy.com/media/hsZ66RR3f8P8rGw32p/giphy.webp" alt="Centered GIF">
+    <H1>You can Access The Web Page <br>Only During the Match Time.</H1>
+    <script>
+    	function updateTime() {
+  var now = new Date();
+  
+  var hours = now.getHours();
+  var amPm = hours >= 12 ? 'PM' : 'AM';
+  hours = hours % 12 || 12; // Convert the hours to 12-hour format
+  
+  var minutes = now.getMinutes().toString().padStart(2, '0');
+  var seconds = now.getSeconds().toString().padStart(2, '0');
+  var timeString = hours + ':' + minutes + ':' + seconds + ' ' + amPm;
+  
+  var day = now.getDate().toString().padStart(2, '0');
+  var month = (now.getMonth() + 1).toString().padStart(2, '0'); // Months are zero-indexed
+  var year = now.getFullYear();
+  var dateString = day + '/' + month + '/' + year;
+
+  var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+  var dayOfWeek = days[now.getDay()]; // Get the day of the week
+
+  var dateTimeString = dayOfWeek + ', ' + dateString;
+
+  document.getElementById('time').innerText = timeString;
+  document.getElementById('dateTime').innerText = dateTimeString;
+}
+
+// Update time every second
+setInterval(updateTime, 1000);
+
+// Initial call to display time immediately
+updateTime();
+</script>
+</body>
+</html>

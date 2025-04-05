@@ -1,0 +1,139 @@
+[
+  {
+  "Team1": "PBKS",
+  "Team2": "RR",
+  "logo": "https://denverisalive.github.io/SportsLovers/sports_icon.jpg"
+  },
+  {
+    "id": "Hin",
+    "name": "HINDI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_HIN_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "ENG",
+    "name": "ENGLISH",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_ENG_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Bhoj",
+    "name": "BHOJPURI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_Bhoj_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Tam",
+    "name": "TAMIL",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_TAM_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Kan",
+    "name": "KANNADA",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_KAN_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Guj",
+    "name": "GUJARATI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_Guj_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Pun",
+    "name": "Punjabi",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_Punj_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Ben",
+    "name": "BENGALI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_BEN_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Mal",
+    "name": "MALAYALAM",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_Mal_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Tel",
+    "name": "TELUGU",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_TEL_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Mar",
+    "name": "MARATHI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_MAR_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Har",
+    "name": "HARYANVI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_HAR_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Cam6",
+    "name": "Hero Cam",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9381/1743780999381-i",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_CAM06_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Cam1",
+    "name": "Batting Cam",
+    "logo": "https://v3img.voot.com//v3Storage/assets/batter_camera_odi_ipl-1710764894788.jpg",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_CAM01_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Cam2",
+    "name": "Bowling Cam",
+    "logo": "https://v3img.voot.com/resizeLow,w_160,h_90/jioimage/15/1/74f3c8c0d16111ed86430dc8f316967d_1680445202266_l.jpg",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_CAM02_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Cam5",
+    "name": "Multi Cam",
+    "logo": "https://v3img.voot.com//v3Storage/assets/multiview_cam_new_odi_ipl-1711085679948.jpg",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_CAM05_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Cam3",
+    "name": "Stump Cam",
+    "logo": "https://v3img.voot.com//v3Storage/assets/stump_camera_odi_ipl-1710844278325.jpg",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_CAM03_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "Cam4",
+    "name": "Spider Cam",
+    "logo": "https://v3img.voot.com//v3Storage/assets/bird_s_eye_camera_odi_ipl-1710765267588.jpg",
+    "link": "https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M2_IPL25_CAM04_IDC_MOB/Fallback/index.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "live-highlights",
+    "name": "JC Sports 24x7",
+    "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg",
+    "link": "https://prod-sports-eng-cf.jiocinema.com/bpk-tv/IDCDemo_IPL23_Eng_BTS/Fallback/index.m3u8"
+  }
+]

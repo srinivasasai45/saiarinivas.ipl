@@ -1,0 +1,21 @@
+{
+  "name": "Sports Lovers App",
+  "short_name": "Sports Lovers",
+  "start_url": "/SportsLovers/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "description": "Join the Group for All type of Matches Links for free...",
+  "icons": [
+    {
+      "src": "sports_icon.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "sports_icon.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
