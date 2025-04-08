@@ -1,13 +1,13 @@
 [
   {
-  "Team1": "KKR",
-  "Team2": "LSG",
-  "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/4012/1744098854012-h"
+  "Team1": "PBKS",
+  "Team2": "CSK",
+  "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/5476/1744046495476-h"
   },
   {
     "id": "live-highlights",
     "name": "Star Sports 1 Hindi",
-    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/4012/1744098854012-h",
-    "link": "https://vkvsd250.okcdn.ru/cmaf/8174863256108/sig/BxYlgbYeMHU/srcIp/172.69.178.85/urls/45.136.20.85/expires/1744407523175/clientType/13/srcAg/CHROME/fromCache/1/mid/9467564993324/id/8174863256108/get/hls_9467564993324.M8H9Ktvtoeg.m3u8"
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/5476/1744046495476-h",
+    "link": "https://prod-sports-hin-fa.jiocinema.com/hls/live/2117033/inallow-ipl-2025/hin/1540040240/15mindvrm023db0faf5a55241d999d884c95e7c39e208april2025/master.m3u8"
   }
 ]
