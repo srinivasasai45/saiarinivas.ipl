@@ -1,7 +1,134 @@
 [
   {
-  "Team1": "GT",
-  "Team2": "RR",
-  "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/3945/1744110883945-h"
+    "id": "HIN",
+    "name": "HINDI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=HIN",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "ENG",
+    "name": "ENGLISH",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=ENG",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "Bhoj",
+    "name": "BHOJPURI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=Bhoj",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "TAM",
+    "name": "TAMIL",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=TAM",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "KAN",
+    "name": "KANNADA",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=KAN",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "Guj",
+    "name": "GUJARATI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=Guj",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "Punj",
+    "name": "Punjabi",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=Punj",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "BEN",
+    "name": "BENGALI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=BEN",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "Mal",
+    "name": "MALAYALAM",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=Mal",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "TEL",
+    "name": "TELUGU",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=TEL",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "MAR",
+    "name": "MARATHI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=MAR",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "HAR",
+    "name": "HARYANVI",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=HAR",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "CAM06",
+    "name": "Hero Cam",
+    "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7281/1744204627281-i",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=CAM06",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "CAM01",
+    "name": "Batting Cam",
+    "logo": "https://v3img.voot.com//v3Storage/assets/batter_camera_odi_ipl-1710764894788.jpg",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=CAM01",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "CAM02",
+    "name": "Bowling Cam",
+    "logo": "https://v3img.voot.com/resizeLow,w_160,h_90/jioimage/15/1/74f3c8c0d16111ed86430dc8f316967d_1680445202266_l.jpg",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=CAM02",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "CAM05",
+    "name": "Multi Cam",
+    "logo": "https://v3img.voot.com//v3Storage/assets/multiview_cam_new_odi_ipl-1711085679948.jpg",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=CAM05",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "CAM03",
+    "name": "Stump Cam",
+    "logo": "https://v3img.voot.com//v3Storage/assets/stump_camera_odi_ipl-1710844278325.jpg",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=CAM03",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "CAM04",
+    "name": "Spider Cam",
+    "logo": "https://v3img.voot.com//v3Storage/assets/bird_s_eye_camera_odi_ipl-1710765267588.jpg",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=CAM04",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "live-highlights",
+    "name": "JC Sports 24x7",
+    "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg",
+    "link": "https://prod-sports-eng-cf.jiocinema.com/bpk-tv/IDCDemo_IPL23_Eng_BTS/Fallback/index.m3u8"
   }
 ]
