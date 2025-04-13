@@ -3,5 +3,33 @@
   "Team1": "RR",
   "Team2": "RCB",
   "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/528/1744532100528-h"
+  },
+  {
+    "id": "HIN",
+    "name": "HINDI",
+    "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/m_028_rr_vs_rcb_tata_ipl_web-1744533428631.jpg",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=HIN&m=M1",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "ENG",
+    "name": "ENGLISH",
+    "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/m_028_rr_vs_rcb_tata_ipl_web-1744533428631.jpg",
+    "link": "https://tatatv.stevosure123.workers.dev/video.m3u8?id=2084",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "Bhoj",
+    "name": "BHOJPURI",
+    "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/m_028_rr_vs_rcb_tata_ipl_web-1744533428631.jpg",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=Bhoj&m=M1",
+    "userAgent": "Denver1769"
+  },
+  {
+    "id": "TAM",
+    "name": "TAMIL",
+    "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/m_028_rr_vs_rcb_tata_ipl_web-1744533428631.jpg",
+    "link": "https://play.denver1769.fun/Play/Js25/play.m3u8?id=TAM&m=M1",
+    "userAgent": "Denver1769"
   }
 ]
