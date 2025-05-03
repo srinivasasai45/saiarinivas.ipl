@@ -4,4 +4,41 @@
   "Team2": "DC",
   "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/8264/1744462128264-h"
   }
+  {
+    "id": "HIN",
+    "name": "HINDI",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-8toEoihI2e0U286iDG6iFgAgljIme0Aj1KT-BP525zp&s",
+    "link": "https://hotstarlive.vercel.app/IPL/hindi.m3u8",
+    "userAgent": "HTLivesm3u"
+  },
+  {
+    "id": "ENG",
+    "name": "ENGLISH",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-8toEoihI2e0U286iDG6iFgAgljIme0Aj1KT-BP525zp&s",
+    "link": "https://hotstarlive.vercel.app/IPL/ENG.m3u8",
+    "userAgent": "HTLivesm3u"
+  },
+  {
+    "id": "AD-FREE",
+    "name": "AD-FREE",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-8toEoihI2e0U286iDG6iFgAgljIme0Aj1KT-BP525zp&s",
+    "link": "https://iplislive.pages.dev/copy-karne-wala-gay-bsdk-2-baap-ka.m3u8",
+    "userAgent": "HTLivesm3u"
+  },
+  {
+    "id": "willow-1",
+    "name": "Willow 1",
+    "logo": "https://cricket.willow.tv/_nuxt/img/willow_2_blue_logo.fa6b253.png",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xhiwabwyru/out/v1/6b12b1bff5564c0a82eee05aceb44c39/cenc.mpd",
+    "drmScheme": "clearkey",
+    "drmLicense": "75bba1d349a469c8c86ed0f75fdf9c00:b136d005e0633ad41ebe056ac334295b"
+  },
+  {
+    "id": "willow-2",
+    "name": "Willow 2",
+    "logo": "https://cricket.willow.tv/_nuxt/img/willow_2_blue_logo.fa6b253.png",
+    "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+    "drmScheme": "clearkey",
+    "drmLicense": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e"
+  }
 ]
